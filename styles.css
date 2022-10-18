@@ -1,0 +1,33 @@
+h2 {
+    color: red;
+    font-style: italic;
+}
+
+.textgreen{
+    color: green;
+}
+
+.textblue{
+    color: blue;
+}
+
+.textpurple{
+    color: purple;
+}
+
+.img{
+    width: 250px;
+    height: auto;
+}
+
+.text16px{
+    font-size: 16px;
+}
+
+.text14px{
+    font-size: 14px;
+}
+
+.text12px{
+    font-size: 12px;
+}
